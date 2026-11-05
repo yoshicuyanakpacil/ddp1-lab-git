@@ -1,4 +1,1 @@
-print("""
-      Nama  : Yoshi Serhan Handoyo
-      NPM   : 2606860290
-      """)
+nama = input("Masukkan Nama anda: ")
